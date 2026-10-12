@@ -1,0 +1,7 @@
+{
+  "name": "Homophone Expedition - High School Word Quest",
+  "description": "An interactive, beautifully designed literary adventure testing high school students on crucial homophones, tricky vocabulary traps, and contextual mastery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
